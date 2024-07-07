@@ -1,0 +1,3 @@
+python -m PyInstaller --name=PingApp --onefile --windowed --icon=ping.ico --add-data "ping.png;." --add-data "notification.mp3;." --add-data "ping.ico;." ping.py
+
+python -m PyInstaller PingApp.spec
