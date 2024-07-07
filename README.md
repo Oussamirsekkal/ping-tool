@@ -49,9 +49,6 @@ If you encounter any issues with the executable:
 2. Ensure all required files are present in the same directory as the executable.
 3. Check that all dependencies are correctly installed if running the Python script directly.
 
-## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-your-issues-page) if you want to contribute.
-
 ## License
  MIT
 
