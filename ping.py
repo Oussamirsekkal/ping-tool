@@ -140,5 +140,6 @@ class PingApp(ctk.CTk):
 
 if __name__ == "__main__":
     app = PingApp()
-    icon_path = resource_path("ping.png")
+    icon_path = resource_path("ping.ico")
+    app.iconbitmap(icon_path)
     app.mainloop()
